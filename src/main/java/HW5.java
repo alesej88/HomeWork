@@ -26,16 +26,16 @@ public class HW5 {
 }
 //lesson2 ⦁	Создать массив из 5 сотрудников
 
-class persArray{
-    Person[] persArray = new Person[5];
-    persArray[0] = new Person("Ivanov Ivan", "Engineer", "ivivan@mailbox.com", "892312312", 30000, 30);
-    persArray[1] = new Person ("Vasya Petrov", "Director", "Vp@gmail.com", "89254517744", 95000, 45);
-    persArray[2] = new Person("Evgeniy Sidorov", "kom.director", "Evgeniy33@mail.ru", 80000, 60);
-    persArray[3] = new Person("Oksana Fadina", "gl.buh", "OkF@ya.ru", 75000, 57);
-    persArray[4] = new Person("Fedya Raspytin", "Driver", "rasputin@ya.ru", 55000, 57)
-    for()
-
-    }
-
-
-}
+//class persArray{
+//    Person[] persArray = new Person[5];
+//    persArray[0] = new Person("Ivanov Ivan", "Engineer", "ivivan@mailbox.com", "892312312", 30000, 30);
+//    persArray[1] = new Person ("Vasya Petrov", "Director", "Vp@gmail.com", "89254517744", 95000, 45);
+//    persArray[2] = new Person("Evgeniy Sidorov", "kom.director", "Evgeniy33@mail.ru", 80000, 60);
+//    persArray[3] = new Person("Oksana Fadina", "gl.buh", "OkF@ya.ru", 75000, 57);
+//    persArray[4] = new Person("Fedya Raspytin", "Driver", "rasputin@ya.ru", 55000, 57)
+//    for(i)
+//
+//    }
+//
+//
+//}
